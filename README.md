@@ -1,6 +1,6 @@
 # LoRA-Guard
 
-Reference implementation [LoRA-Guard: Parameter-Efficient Guardrail Adaptation for Content Moderation of Large Language Models](https://arxiv.org/abs/2407.02987). 
+Reference implementation for [LoRA-Guard: Parameter-Efficient Guardrail Adaptation for Content Moderation of Large Language Models](https://arxiv.org/abs/2407.02987). 
 Paper by Hayder Elesedy, Pedro M. Esperança, Silviu Vlad Oprea, Mete Ozay. 
 Implementation by Hayder Elesedy.
 
