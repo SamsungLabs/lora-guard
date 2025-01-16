@@ -1,0 +1,14 @@
+name: lora-guard
+channels:
+  - pytorch
+dependencies:
+  - python==3.12
+  - pip
+  - pytorch::pytorch
+  - pip:
+    - accelerate
+    - datasets
+    - peft
+    - torcheval
+    - tqdm
+    - transformers
